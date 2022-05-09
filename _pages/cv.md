@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/shieh_cv.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="https://github.com/marcyshieh/marcyshieh.github.io/blob/dd3fb1c9c6d7cacf87e025baf410ad39df18918c/files/shieh_cv.pdf" width="500" height="1000" type="application/pdf"></object>
