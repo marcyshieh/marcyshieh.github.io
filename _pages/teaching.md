@@ -5,6 +5,11 @@ permalink: /teaching/
 ---
 ## University of Wisconsin-Madison
 
+**POLISCI170: Research Methods in Political Science**
+* Spring 2022
+* Teaching assistant for Prof. Jonathan Renshon
+* Undergraduate course (in-person)
+
 **POLISCI811: Introduction to Statistical Computing in Political Science**
 * Materials: [Course website](https://marcyshieh.github.io/ps811-materials/)
 * Fall 2020
@@ -13,9 +18,9 @@ permalink: /teaching/
 
 **Math Camp**
 * Materials: [GitHub](https://github.com/shirikov/math-camp-2020)
-* Summer 2020
+* Summer 2020, 2021
 * Co-instructor with Anton Shirikov
-* Math refresher for incoming first year political science PhD students (virtual)
+* Math refresher for incoming first year political science PhD students (virtual in 2020; in-person in 2021)
 
 **POLISCI414: The Supreme Court as a Political Institution**
 * Summer 2018, 2019, 2020
