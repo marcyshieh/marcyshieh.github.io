@@ -9,7 +9,7 @@ name: Marcy Shieh
 author: Marcy Shieh
 
 # Short bio or description (displayed in the header)
-description: Professional website
+description: PhD Candidate
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/photoo.jpg
@@ -89,7 +89,7 @@ plugins:
 
 include: ['_pages']
 
-paginate: 6
+paginate: 1
 paginate_path: /page:num/
 
 # Exclude these files from your production _site
