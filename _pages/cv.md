@@ -4,5 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-<embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=http://example.com/the.pdf" width="500" height="375">
+<embed src="files/shieh_cv.pdf" width="700" height="1000">
