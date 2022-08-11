@@ -6,7 +6,11 @@ permalink: /research/
 
 Here are summaries of my in-progress research projects.
 
-**Effects of Public Financing on North Carolina Supreme Court Media Coverage** [data collection in-progress]
+**Effects on Opinion Clarity when State Supreme Courts Change From Partisan to Nonpartisan Selection Methods** *under review*
+
+This paper looks at six state supreme courts and considers whether the change from partisan to nonpartisan selection methods influences the clarity of judicial opinions. Previous research has shown that partisan and nonpartisan justices act differently. Partisan justices rely on their party affiliation to attract voters while nonpartisan justices must resort to other tactics, such as obtaining endorsements from ideological groups and politicians. Given how selection methods change how justices act in the electoral context, I use opinion clarity as a proxy to measure the weight of importance courts and justices put on their partisan label when they are conducting judicial work. I find that courts are more likely to produce less clear opinions when they change their selection method from partisan to nonpartisan, and that the specific justices that were part of both the partisan and nonpartisan regimes become more likely to write clearer opinions. 
+
+**Effects of Public Financing on North Carolina Supreme Court Media Coverage** *data collection in-progress*
 
 In this paper, I look at how public financing of elections and opinion clarity influence the amount of media coverage on the North Carolina Supreme Court. I expect that the public financing option in elections increases media coverage in the North Carolina Supreme Court and this relationship is mediated by the justices' propensity to write clearer opinions. North Carolina is the ideal case study. From 2004 to 2012, the state changed from no public financing of judicial elections *to* public financing of judicial elections and *back to* no public financing of judicial elections. Using data from 1994 to 2019, I want to see whether public financing of elections force justices to communicate more clearly and in turn, allow journalists to be better able to report on their decisions from the bench.
 
