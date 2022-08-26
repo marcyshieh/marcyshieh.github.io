@@ -6,7 +6,7 @@ permalink: /dissertation/
 
 My dissertation consists of three papers about the causes and effects of judicial elections. More specifically, it asks the following questions: Do campaign finance restrictions change voting behavior? Do certain types of media coverage about judicial candidates invite more public interest? Does policy-oriented information prevent ballot roll-off for judicial races? These three papers provide insight into an electoral landscape that has historically been lacking in information but has become increasingly costly and relevant in recent years.
 
-![](https://marcyshieh.github.io/files/MarcyShieh2022PolMethPoster.png =500x)
+<img src="https://marcyshieh.github.io/files/MarcyShieh2022PolMethPoster.png" alt="poster" width="500"/>
 
 [Political Methodology 2022 Poster Presentation](https://marcyshieh.github.io/files/MarcyShieh2022PolMethPoster.pdf)
 
