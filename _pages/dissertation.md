@@ -8,7 +8,7 @@ My dissertation consists of three papers about the causes and effects of judicia
 
 <img src="https://marcyshieh.github.io/files/MarcyShieh2022PolMethPoster.png" alt="poster" width="700"/>
 
-<center>[Political Methodology 2022 Poster Presentation](https://marcyshieh.github.io/files/MarcyShieh2022PolMethPoster.pdf)</center>
+<p style="text-align: center;">[Political Methodology 2022 Poster Presentation](https://marcyshieh.github.io/files/MarcyShieh2022PolMethPoster.pdf)</p>
 
 The first paper, "Effects of Campaign Finance Regulations on State Supreme Court Signaling,” considers how state campaign finance restrictions influence the propensity of state supreme court justices to vote with their ideological counterparts. Using measures of campaign finance regulations and court disorder from 1995 to 2010, I find that judicial voting behavior is often a signaling story. In general, when there is an increase in campaign finance regulations, justices are more likely to vote with their ideological counterparts. When justices need to divulge more information about their donors, who are often ideologically diverse, they are especially likely to vote with their ideological counterparts as a way to signal to voters where their ideological loyalties lie. Justices, however, when faced with regulations that force them to expand their donor base, would vote more moderately as a way to appeal to more donors. These results demonstrate that campaign finance reform should not be evaluated as a monolith. Rather, state legislators should consider the effects of each regulation to ensure that the regulations work in step with judicial legitimacy. ([Link to working draft of the paper](https://marcyshieh.github.io/files/shieh_signaling_2022-08-25.pdf))
 
