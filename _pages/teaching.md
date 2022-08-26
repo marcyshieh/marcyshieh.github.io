@@ -6,7 +6,7 @@ permalink: /teaching/
 ## University of Wisconsin-Madison (Instructor of Record)
 
 **POLISCI270: Understanding Political Numbers**
-* Syllabus: [Link](https://marcyshieh.github.io/ps811-materials/)
+* Materials: [Syllabus](https://marcyshieh.github.io/files/syllabus_ps270_fall2021.pdf)
 * Fall 2021
 * Undergraduate course (in-person)
 
