@@ -2,10 +2,8 @@
 layout: default
 ---
 
-My name is Marcy Shieh and I am a PhD Candidate at the Department of Political Science at the University of Wisconsin-Madison. I study American politics with a concentration in judicial politics. My research interests include judicial elections, judicial selection methods, judicial decision-making, campaigns, text analysis, and survey experiments.
+My name is Marcy Shieh and I am a PhD Candidate at the Department of Political Science at the University of Wisconsin-Madison. I study American politics with a concentration in judicial politics. My research interests include judicial elections, judicial selection methods, judicial decision-making, campaigns, text analysis, and survey experiments. In my three-paper dissertation titled, *The Impact of Campaigns and Elections on the Behavior of State Supreme Court Justices*, I question how the nature of judicial elections supplements existing work on judicial behavior and voter behavior in the context of low-information elections. Building on research in judicial politics and state politics, I argue that judicial elections motivate justices to consider more than policy preferences and the law and challenge conventions of judicial legitimacy.
 
-My dissertation examines different facets of state supreme court elections, including whether policy information prevents ballot roll-off, whether types of news stories attracts public interest in re-election campaigns, and whether campaign finance regulations influence the justice's voting and opinion-writing strategies. I use a variety of methods to evaluate these research questions, such as survey experiments and text analysis.
+I graduated from the University of California, Davis with a BA in political science and philosophy with a minor in statistics in 2014. Prior to graduate school, I worked at a healthcare policy firm as a senior project management coordinator.
 
-I have experience teaching courses on survey research, research design, statistical computing, introduction to American government, and the U.S. Supreme Court.
-
-I graduated from the University of California, Davis with a BA in political science and philosophy with a minor in statistics in 2014. Prior to graduate school, I worked at a healthcare policy firm as a senior project management coordinator. In my spare time, I love making and eating food, watching movies and TV, and running. I like baking bread and bagels, and eating all kinds of food.
+In my spare time, I like hanging out with my cat, eating and cooking food, and watching films and television.
