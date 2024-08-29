@@ -14,7 +14,7 @@ permalink: /teaching/
 **POLS 1110 - American Politics**
 * Spring 2024
 
-***POLS 1511 - Local Social Science: Introduction to American Politics**
+**POLS 1511 - Local Social Science: Introduction to American Politics**
 * Spring 2024
 
 ## University of Wisconsin-Madison (Instructor of Record)
