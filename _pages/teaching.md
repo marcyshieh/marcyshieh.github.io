@@ -3,6 +3,20 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+
+## Miami University (Instructor of Record)
+
+**POL 353 - Constitutional Rights and Liberties**
+* Fall 2024
+
+## University of North Carolina at Charlotte (Instructor of Record)
+
+**POLS 1110 - American Politics**
+* Spring 2024
+
+***POLS 1511 - Local Social Science: Introduction to American Politics**
+* Spring 2024
+
 ## University of Wisconsin-Madison (Instructor of Record)
 
 **POLISCI270: Understanding Political Numbers**
@@ -34,7 +48,7 @@ permalink: /teaching/
 * Undergraduate course (in-person)
 
 **POLISCI373: Introduction to Survey Research**
-* Spring 2020
+* Spring 2020, Spring 2023
 * Teaching assistant for Prof. Eleanor Powell
 * Undergraduate course (in-person; moved to virtual mid-semester)
 
